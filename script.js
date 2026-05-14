@@ -37,6 +37,30 @@ const PRODUCTS = [
     description: 'Guantes urbanos sin dedo. Estilo y funcionalidad.',
     image: 'Productos/Guantes_sin_dedo_nobg.png',
   },
+  {
+    id: 'boston-bag',
+    name: 'Boston Bag',
+    description: 'Bolso estructurado con asa corta. Silueta clásica, uso diario.',
+    image: 'Productos/BOSTON_BAG-removebg-preview(1).png',
+  },
+  {
+    id: 'cinto-tachas-hebilla-semicirculo',
+    name: 'Cinto Tachas · Hebilla Semicírculo',
+    description: 'Tachas chicas y grandes, hebilla semicírculo. Actitud rock.',
+    image: 'Productos/CINTO_TACHAS_CHICAS_Y_GRANDES_HEBILLA_SEMICIRCULO-removebg-preview.png',
+  },
+  {
+    id: 'cinto-ancho-trenzado',
+    name: 'Cinto Ancho Trenzado',
+    description: 'Trenzado ancho con maxi hebilla labrada. Textura y presencia.',
+    image: 'Productos/CINTO_ANCHO_TRENZADO_MAXI_HEBILLA_LABRADA-removebg-preview.png',
+  },
+  {
+    id: 'cinto-ancho-apliques-piedra',
+    name: 'Cinto Ancho Apliques',
+    description: 'Apliques y hebilla circular con piedra. Detalle que marca.',
+    image: 'Productos/CINTO_ANCHO_CON_APLIQUES_Y_HEBILLA_CIRCULAR_CON_PIEDRA-removebg-preview.png',
+  },
 ];
 
 // Drop release date
