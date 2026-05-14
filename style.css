@@ -167,7 +167,7 @@ nav {
 
 .hero-title {
   font-family: var(--font-display);
-  font-size: clamp(76px, 15vw, 196px);
+  font-size: clamp(48px, 9vw, 112px);
   font-weight: 300;
   letter-spacing: 0.14em;
   line-height: 1.05;
