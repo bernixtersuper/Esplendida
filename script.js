@@ -14,7 +14,7 @@ const PRODUCTS = [
     description: 'Tote bag con tachas metálicas plateadas. Tres versiones.',
     image: 'Productos/carteratote con tachas nobg.png',
     variants: [
-      { label: 'Natural', image: 'Productos/carteratote con tachas nobg.png' },
+    { label: 'Vino', image: 'Productos/carteratote con tachas nobg.png' },
       { label: 'Blanca',  image: 'Productos/carteratote con tachas blanca.webp' },
       { label: 'Marrón',  image: 'Productos/carteratote con tachas marron.webp' },
     ],
@@ -28,8 +28,12 @@ const PRODUCTS = [
   {
     id: 'gorro-roturas',
     name: 'Gorro Roturas',
-    description: 'Gorro con roturas. El desastre como estética.',
+    description: 'Gorro con roturas. El desastre como estética. Natural y chocolate.',
     image: 'Productos/Gorro roturas nobg.png',
+    variants: [
+      { label: 'Vino',   image: 'Productos/Gorro roturas nobg.png' },
+      { label: 'Chocolate', image: 'Productos/GORRO_DE_LANA_CON_ROTURAS_CHOCOLATE-removebg-preview.png' },
+    ],
   },
   {
     id: 'guantes-sin-dedo',
